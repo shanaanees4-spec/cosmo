@@ -13,7 +13,8 @@ for num in range(2, n + 1):
 print("Sum =", s)
 
 
-
+p=" rain in spain"
+print(p)
 
 
 
